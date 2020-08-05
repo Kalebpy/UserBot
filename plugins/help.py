@@ -27,7 +27,7 @@ async def _(event):
     help_string = """.
 Telethon : {}
 User : @Xaleb
-Repo Owner : @Xaleb""".format(
+Repo Owner : @ok""".format(
         sys.version,
         __version__
     )
